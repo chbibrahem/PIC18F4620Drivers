@@ -1,0 +1,21 @@
+build/default/production/ECU_Layer/ecu_layer_init.p1:  \
+ECU_Layer/ecu_layer_init.c  \
+ECU_Layer/ecu_layer_init.h  \
+ECU_Layer/LED/ecu_led.h  \
+ECU_Layer/LED/../../MCAL_layer/GPIO/hal_gpio.h  \
+ECU_Layer/LED/../../MCAL_layer/GPIO/../Mcal_std_types.h  \
+ECU_Layer/LED/../../MCAL_layer/GPIO/../std_libraries.h  \
+ECU_Layer/LED/../../MCAL_layer/GPIO/../compiler.h  \
+ECU_Layer/LED/../../MCAL_layer/GPIO/../device_config.h  \
+ECU_Layer/LED/../../MCAL_layer/GPIO/../hal_gpio_cfg.h  \
+ECU_Layer/LED/ecu_led_cfg.h  \
+ECU_Layer/ecu_seven_seg/ecu_seven_seg.h  \
+ECU_Layer/ecu_seven_seg/ecu_seven_seg_cfg.h  \
+ECU_Layer/DC_Motor/ecu_dc_motor.h  \
+ECU_Layer/DC_Motor/ecu_dc_motor_cfg.h  \
+ECU_Layer/button/ecu_button.h  \
+ECU_Layer/button/../BUTTON/ecu_button_cfg.h  \
+ECU_Layer/KeyPad/ecu_keypad.h  \
+ECU_Layer/KeyPad/ecu_keypad_cfg.h  \
+ECU_Layer/LCD/ecu_lcd.h  \
+ECU_Layer/LCD/ecu_lcd_cfg.h 
